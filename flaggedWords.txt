@@ -1,0 +1,4 @@
+# Put all words that should be deleted below
+# Seperate them by a space 
+# It is not case sensitive
+skibidi

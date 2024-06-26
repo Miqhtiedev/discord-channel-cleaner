@@ -1,0 +1,6 @@
+logs
+dist
+node_modules
+.flaggedWords.txt
+test.env
+scripts
